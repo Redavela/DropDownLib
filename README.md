@@ -8,4 +8,4 @@ import {DropDown} from 'dropdownlib-reda'
 
 # USE DROPDOWN
 
-<DropDown options={[{}]} label=''/>
+<DropDown >
