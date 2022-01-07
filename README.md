@@ -2,10 +2,14 @@
 
 npm i dropdownlib-reda
 
-# IMPORT DROPDOWN
+## IMPORT DROPDOWN
 
 import {DropDown} from 'dropdownlib-reda'
 
-# USE DROPDOWN
+### USE DROPDOWN
 
  You need a label and, in your options, an array of object (DropDown options={[{}]} label='') that's all !
+
+#### LINK NPM 
+
+Open https://www.npmjs.com/package/dropdownlib-reda on npm
